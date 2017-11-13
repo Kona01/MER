@@ -1,3 +1,4 @@
+itemGroup.tabMER=MER Tab
 tile.trumpiumore.name=Trumpium Ore
 tile.cement.name=Cement
 tile.trumpiumblock.name=Trumpium Block
@@ -11,4 +12,5 @@ item.trumpleggings.name=Trump Leggings
 item.trumpchestplate.name=Trump Chestplate
 item.trumpboots.name=Trump Boots
 item.trumphelmet.name=Trump Helmet
-itemGroup.tabMER=MER Tab
+item.dough.name=Dough
+item.perogie.name=Perogie

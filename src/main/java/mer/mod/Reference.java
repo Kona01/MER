@@ -13,8 +13,7 @@ public class Reference {
     public static enum ModBlocks{
         CEMENT("cement", "blockcement"),
         TRUMPIUMORE("trumpiumore", "blocktrumpiumore"),
-        TRUMPIUMBLOCK("trumpiumblock", "blocktrumpiumblock"),
-        TRUMPPORTAL("trumpportal", "blocktrumpportal");
+        TRUMPIUMBLOCK("trumpiumblock", "blocktrumpiumblock");
 
         private String unlocalizedName;
         private String registryName;
