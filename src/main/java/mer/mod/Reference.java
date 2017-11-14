@@ -10,6 +10,10 @@ public class Reference {
     public static final String CLIENT_PROXY_CLASS = "mer.mod.proxy.ClientProxy";
     public static final String SERVER_PROXY_CLASS = "mer.mod.proxy.ServerProxyClass";
 
+    public static enum ModEntities{
+
+    }
+
     public static enum ModBlocks{
         CEMENT("cement", "blockcement"),
         TRUMPIUMORE("trumpiumore", "blocktrumpiumore"),
